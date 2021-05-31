@@ -51,9 +51,6 @@ ul#nav-list.nav.navbar-nav.navbar-right li>a {
 	text-transform: capitalize;
 	border-bottom: 1px solid #ddd;
 }
-button .navbar-togglecollapsed a:hover {
-	background-color: red;
-}
 /**Body**/
 h2, h3 {
 	text-transform: capitalize;
