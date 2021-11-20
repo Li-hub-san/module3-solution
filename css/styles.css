@@ -183,6 +183,13 @@ hr:after {
   padding: 1px 10px;
 }
 
+.go-top:hover,
+.go-top:active,
+.go-top:visited,
+.go-top:link {
+  color: #0B5345;
+}
+
 footer {
   margin: 10px 0;
   padding: 8px 12px;
